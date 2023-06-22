@@ -1,5 +1,5 @@
 [package]
-name = "NetPromoterScore"
+name = "net_promoter_score"
 version = "0.1.0"
 edition = "2021"
 
