@@ -1,13 +1,14 @@
 [package]
 name = "net_promoter_score"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["rrrodzilla <rrrodzilla@proton.me>"]
 description = "A crate for calculating Net Promoter Score (NPS) from survey responses."
 repository = "https://github.com/rrrodzilla/net_promoter_score"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-categories =  ["algorithms", "statistics","data-structures","mathematics","text-processing"]
+documentation = "https://docs.rs/net_promoter_score"
+categories =  ["algorithms", "command-line-utilities","data-structures","mathematics","text-processing"]
 keywords = ["nps", "net-promoter-score", "customer-feedback", "survey-analysis", "satisfaction-rating"]
 [dev-dependencies]
 anyhow = "1.0.71"

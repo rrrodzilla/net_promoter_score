@@ -1,3 +1,3 @@
 pub use crate::{
-    NetPromoterScoreError,Classification, Rating, Survey, SurveyResponse,
+    Classification, NetPromoterScoreError, NpsRating, Rating, ScoreCount, Survey, SurveyResponse,
 };
