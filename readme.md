@@ -61,3 +61,14 @@ This crate is free software: you can redistribute it and/or modify it under the 
 
 Net Promoter®, NPS®, NPS Prism®, and the NPS-related emoticons are registered trademarks of Bain & Company, Inc., NICE Systems, Inc., and Fred Reichheld. Net Promoter Score and Net Promoter System are service marks of Bain & Company, Inc., NICE Systems, Inc., and Fred Reichheld.
 
+--- 
+
+## Like this crate?
+
+⭐ Star     https://github.com/rrrodzilla/net_promoter_score
+
+🐦 Follow   https://twitter.com/rrrodzilla
+
+---
+
+<h5 align="center">readme created with <a href="https://crates.io/crates/cargo-markdown">cargo-markdown</a></h5>
