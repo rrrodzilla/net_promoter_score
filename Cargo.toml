@@ -1,6 +1,6 @@
 [package]
 name = "net_promoter_score"
-version = "0.1.1"
+version = "0.2.0"
 authors = ["rrrodzilla <rrrodzilla@proton.me>"]
 description = "A crate for calculating Net Promoter Score (NPS) from survey responses."
 repository = "https://github.com/rrrodzilla/net_promoter_score"
