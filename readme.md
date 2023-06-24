@@ -18,7 +18,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-net_promoter_score = "0.2.0"
+net_promoter_score = "0.2.1"
 ```
 
 ## Example Usage
