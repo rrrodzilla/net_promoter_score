@@ -1,4 +1,5 @@
-# Net Promoter Score (NPS®) [![Crates.io](https://img.shields.io/crates/v/net_promoter_score.svg)](https://crates.io/crates/net_promoter_score)
+# Net Promoter Score (NPS®) 
+[![Crates.io](https://img.shields.io/crates/v/net_promoter_score.svg)](https://crates.io/crates/net_promoter_score) [![build and test](https://github.com/rrrodzilla/net_promoter_score/actions/workflows/build%20and%20test.yml/badge.svg)](https://github.com/rrrodzilla/net_promoter_score/actions/workflows/build%20and%20test.yml) [![Documentation](https://docs.rs/net_promoter_score/badge.svg)](https://docs.rs/net_promoter_score) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 The `net_promoter_score` crate is a Rust library for working with and calculating Net Promoter Scores (NPS) from survey responses. The library is highly customizable, making it easy to work with different respondent ID types and score ranges. It includes methods for adding single and multiple responses, bulk responses, and auto-generated unique respondent IDs. Furthermore, the crate efficiently handles edge cases and has detailed error messages to ensure your application is robust and accurate.
 
